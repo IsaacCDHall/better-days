@@ -44,6 +44,7 @@
 
 * Notes go here
 [Twitter api rundown tutorial](https://www.youtube.com/watch?v=7-nX3YOC4OA)
+[Sass Architecture](https://gist.github.com/rveitch/84cea9650092119527bc)
 
 ### Installation
 
