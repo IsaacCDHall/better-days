@@ -22,11 +22,16 @@
 
  __MVP :__
 
+         - [ ] Next JS with Static, server, and client side rendering 
+         - [ ] Login Authentication
          - [ ] Twitter API using oEmbed to pull lists
+         - [ ] Reddit API 
 
  __Stretch Goals :__
 
-         - [ ] TBD
+         - [ ] oAuth
+         - [ ] JWT
+         - [ ] Socials - Github, Gmail, linkedin? 
 
   __Audit Optimization :__
 
